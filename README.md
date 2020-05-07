@@ -1,6 +1,6 @@
 # laravel-dynamic-factories :factory:
 
-> Dynamicly wrap factories for happier IDEs
+> Dynamically wrap factories for happier IDEs
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/mblarsen/laravel-dynamic-factories.svg?style=flat-square)](https://packagist.org/packages/mblarsen/laravel-dynamic-factories)
 [![Build Status](https://img.shields.io/travis/mblarsen/laravel-dynamic-factories/master.svg?style=flat-square)](https://travis-ci.org/mblarsen/laravel-dynamic-factories)
